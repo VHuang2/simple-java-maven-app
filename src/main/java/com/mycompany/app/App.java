@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello World! This is Vince, I am working for Jenkins git hook trigger.";
+    private final String message = "Hello World! This is Vince, I am working for Jenkins git hook trigger. I push from my ubuntu to github.";
 
     public App() {}
 
